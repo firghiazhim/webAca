@@ -106,7 +106,7 @@ const HomePage = () => {
             <We
               title1="Wee in uika"
               img1="./public/img/11.png"
-              desk1={`gimana ga senengnya aku disini sayanggg, aku tampil sama the wood plane tiba-tiba kamu hadir datang buat liat aku ama nyemangatin akuuu, akuu bener-bener ga nyangka aja aseeeliii udahh gituu kamu meni masyyallahh pisannn, tapi aku kesel sikit. karna kamu banyak anak mahasiswa negliatin kamuuu,huhhh.Terimakasih yaa saayangg supportnyaaa, support aku terus yaa sayangg buat wujudin cita-cita akuu, Loveee Uuuuu Pokokknyaaa. `}
+              desk1={`gimana ga senengnya aku disini sayanggg, aku tampil sama the wood plane tiba-tiba kamu hadir datang buat liat aku ama nyemangatin akuuu, akuu bener-bener ga nyangka aja aseeeliii udahh gituu kamu meni masyyallahh pisannn, tapi aku kesel sikit. karna kamu banyak anak mahasiswa negliatin kamuuu,huhhh.Terimakasih yaa saayangg supportnyaaa, support baku terus yaa sayangg buat wujudin cita-cita akuu, Loveee Uuuuu Pokokknyaaa. `}
               // kanan
               title2="Wee in you birthday"
               img2="./public/img/ultahKamu.png"
