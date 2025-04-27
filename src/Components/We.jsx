@@ -2,7 +2,7 @@ const We = (props) => {
   const { img1, img2, title1, title2, desk1, desk2 } = props;
   return (
     <div>
-      <div className="grid grid-cols-1 mt-8 gap-2 items-center sm:grid-cols-2 sm:mt-15  md:gap-10 md:mt-15">
+      <div className="grid grid-cols-1 mt-8 gap-2 items-center sm:grid-cols-2 sm:mt-15  md:gap-10 md:mt-15 scroll-animation">
         {/* Kiri */}
         <div className="box" data-aos="fade-left">
           <img src={img1} />

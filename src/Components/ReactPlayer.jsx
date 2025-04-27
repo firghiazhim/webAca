@@ -1,5 +1,4 @@
 import ReactPlayer from "react-player";
-// import video from "../public/video/video1.mp4";
 
 import React from "react";
 
