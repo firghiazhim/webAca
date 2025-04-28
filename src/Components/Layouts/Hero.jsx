@@ -2,10 +2,7 @@ const Hero = () => {
   return (
     <div className="hero lg:pt-25 pt-20 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8 items-center">
       <div className="box" data-aos="fade-right">
-        <img
-          src="./public/img/hero1.jpg"
-          className="md:h-99 w-full object-cover"
-        />
+        <img src="/img/hero1.jpg" className="md:h-99 w-full object-cover" />
       </div>
       <div
         className="box flex flex-col lg:justify-between gap-4"
@@ -19,7 +16,7 @@ const Hero = () => {
           menjelajah sssayaangkuu <span className="text-red-600">{"<3"}</span>
           <audio controls loop className="rounded-2xl w-full mt-2">
             <source
-              src="./public/song/song.mp3"
+              src="/song/song.mp3"
               type="audio/mpeg"
               className="bg-red-500"
             />
